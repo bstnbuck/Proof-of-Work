@@ -1,2 +1,0 @@
-msoffcrypto-tool=4.10.1
-pikepdf=1.7.0
