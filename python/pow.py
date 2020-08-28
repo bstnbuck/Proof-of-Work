@@ -93,7 +93,7 @@ def start():
                 print("Stopped!")
                 starti = True
             else:
-                print("ERROR! Wrong entry")
+                print("ERROR! Wrong entry!")
         except:
             print("ERROR!")
 
