@@ -2,7 +2,7 @@
 Simple Proof-of-Work implementation in Python and Go
 
 Hey there!
-In this mini project I created a proof-of-work implementation in Python and Go, possibly soon in Kotlin.
+In this mini project I created a proof-of-work implementation in Python and Go.
 
 ---
 There are three functions: `pow(text)`, `pown()` and `proof(hasht, text)`.
